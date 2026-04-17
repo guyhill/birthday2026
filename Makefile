@@ -1,10 +1,10 @@
-anniversary2026: anniversary2026.c
-	gcc -o anniversary2026 anniversary2026.c
+age: age.c
+	gcc -o age age.c
 	
-all: anniversary2026
+all: age
 
-run: anniversary2026
-	./anniversary2026
+run: age
+	./age
 
 clean:
-	rm anniversary2026
+	rm age
