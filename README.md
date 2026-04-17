@@ -1,5 +1,5 @@
 # Happy obfuscated birthday!
-This code calculates my age on my 2026 birthday in a way that is hopefully not very obvious. You can obtain and run the code by typing the following in a console window:
+This code calculates my age on my 2026 birthday in a way that is hopefully not entirely obvious. You can obtain and run the code by typing the following in a console window:
 
 ```
 git clone https://github.com/guyhill/birthday2026.git
