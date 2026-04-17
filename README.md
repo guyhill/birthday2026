@@ -1,5 +1,13 @@
-# Happy birthday to me!
-Find out how old I will be on my next birthday. You can run the code by running `make -s run` in a console window. Bonus points if you can correctly guess my age from the code alone.
-If you really must, more readable and better documented versions of the code are available in the `spoilers` directory.
+# Happy obfuscated birthday!
+This code calculates my age on my 2026 birthday in a way that is hopefully not very obvious. You can obtain and run the code by typing the following in a console window:
 
-Code only works on Linux machines.
+```
+git clone https://github.com/guyhill/birthday2026.git
+cd birthday2026
+make -s run
+```
+
+But the real challenge is to try to work out how the code works, and from it, how old I will be on my birthday. If you get stuck, maybe the more readable and better documented
+versions of the code in the `spoilers` directory are of some use.
+
+Code requires Linux to work.
