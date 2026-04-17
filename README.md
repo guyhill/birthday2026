@@ -10,4 +10,4 @@ make -s run
 But the real challenge is to try to work out how the code works, and from it, how old I will be on my birthday. If you get stuck, maybe the more readable and better documented
 versions of the code in the `spoilers` directory are of some use.
 
-Code requires Linux to work.
+Code only works on Linux.
