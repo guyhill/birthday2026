@@ -7,7 +7,8 @@ cd birthday2026
 make -s run
 ```
 
-But the real challenge is to try to work out how the code works, and from it, how old I will be on my birthday without running it first. If you get stuck, maybe the more readable and better documented
-versions of the code in the `spoilers` directory are of some use.
+But the real challenge is to try to work out how the code works, and from it, how old I will be on my birthday without running it first. 
+If you get stuck,take a look at the de-obfuscation document in the `spoilers` directory. I also included some design notes, which are
+in effect, the same as the de-obfuscation guideline, but in reverse.
 
 Code only works on Linux.
