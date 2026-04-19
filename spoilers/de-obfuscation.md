@@ -251,7 +251,7 @@ file should be opened. The value 0xc1 is a combination of three options:
 
 Together they mean that the `open()` call attempts to create the file
 if it does not exist, it opens the file for writing, and it opens the
-file in exclusive mode, which means that it makes sure that the file is 
+file in exclusive creator mode, which means that it makes sure that the file is 
 actually created by the current call to open. However, since the 
 current directory already exists, this last part cannot be done, 
 resulting in the error EEXIST (File exists).
