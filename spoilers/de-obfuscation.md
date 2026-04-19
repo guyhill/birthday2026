@@ -119,10 +119,10 @@ print the entire number to the console, digit by digit.
 
 Let's now re-write this function to be more descriptive:
 ```
-void print_int(int num) {
+void print_number(int num) {
   int prefix = num / 10;
   if (prefix)
-    print_int(prefix);
+    print_number(prefix);
   char final_digit = num % 10;
   putchar('0' + final_digit);
 }
